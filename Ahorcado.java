@@ -34,7 +34,6 @@ public class Ahorcado {
 	case 3:
 		resultado = a * b;
 	}
-
 	System.out.println("El resultado es " + resultado.toString());
 	}
 }
